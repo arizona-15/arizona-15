@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cloud infrastructure, cybersecurity, and deploying scalable IoT systems**
 
-- 👨‍💻 All of my projects are available at [https://modern-website-arizona.vercel.app/](https://arizonadamanik.portfely.com/)
+- 👨‍💻 All of my projects are available at [https://arizonadamanik.portfely.com/]
 
 - 💬 Ask me about **IoT, LoRa, MQTT, Embedded Systems, Networking, and Software Development**
 
